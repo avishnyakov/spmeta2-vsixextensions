@@ -1,4 +1,6 @@
 # SPMeta2 Extensions for Visual Studio
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Favishnyakov%2Fspmeta2-vsixextensions.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Favishnyakov%2Fspmeta2-vsixextensions?ref=badge_shield)
+
 [SPMeta2 Extensions for Visual Studio]("https://github.com/SubPointSolutions/spmeta2-vsixextensions") adds a bunch of useful snippets, project and item templates to Visual Studio. The purpose is to make your daily M2/SharePoint related work in Visual Studio much easier, productive and also bring consistency across your projects, people and teams.
 
 ### Downloads
@@ -43,3 +45,7 @@ We keen to hear back from the community improving both [SPMeta2](https://github.
 * Get your hand dirty and pull to [SPMeta2](https://github.com/SubPointSolutions/spmeta2) or [SPMeta2 Extensions for Visual Studio](https://github.com/SubPointSolutions/spmeta2-vsixextensions) repos
 * Give a few hint via github issues
 * Follow us @ [twitter](https://twitter.com/spmeta2) :)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Favishnyakov%2Fspmeta2-vsixextensions.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Favishnyakov%2Fspmeta2-vsixextensions?ref=badge_large)
